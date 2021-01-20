@@ -1,0 +1,1 @@
+An example project illustrating interop between TestStack.White and FlaUI
