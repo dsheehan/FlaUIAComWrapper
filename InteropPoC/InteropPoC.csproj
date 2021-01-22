@@ -68,7 +68,7 @@
       <HintPath>..\packages\TestStack.White.Uia3.0.14.0-uiacomwrapper0214\lib\net40\TestStack.White.dll</HintPath>
     </Reference>
     <Reference Include="UIAComWrapper">
-      <HintPath>..\packages\UIAComWrapper.1.1.1.15\lib\net40\UIAComWrapper.dll</HintPath>
+      <HintPath>..\packages\UIAComWrapper.1.1.1.16\lib\net40\UIAComWrapper.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
